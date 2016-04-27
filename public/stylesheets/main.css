@@ -1,27 +1,23 @@
-.jumbotron {
-  background: #532F8C;
-  color: white;
-  padding-bottom: 80px; }
-  .jumbotron .btn-primary {
-    background: #845ac7;
-    border-color: #845ac7; }
-    .jumbotron .btn-primary:hover {
-      background: #7646c1; }
-  .jumbotron p {
-    color: #d9ccee;
-    max-width: 75%;
-    margin: 1em auto 2em; }
-  .navbar + .jumbotron {
-    margin-top: -20px; }
-  .jumbotron .lang-logo {
-    display: block;
-    background: #B01302;
-    border-radius: 50%;
-    overflow: hidden;
-    width: 100px;
-    height: 100px;
-    margin: auto;
-    border: 2px solid white; }
-    .jumbotron .lang-logo img {
-      max-width: 100%; }
+body {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: url(http://i1064.photobucket.com/albums/u380/silverbowen/image4_zpsmju9o9u3.jpg);
+  background-size: cover;
+}
+
+p {
+  background-color: lightgray;
+}
+
+.smaller-image {
+  width: 200px;
+}
+
+.thick-black-border {
+  border-color: black;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
 
